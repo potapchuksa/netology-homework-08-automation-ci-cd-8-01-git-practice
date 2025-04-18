@@ -1,0 +1,1 @@
+# netology-homework-08-automation-ci-cd-8-01-git-practice
