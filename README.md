@@ -1,1 +1,7 @@
-# netology-homework-08-automation-ci-cd-8-01-git-practice
+### Домашнее задание к занятию «Git»
+
+## Потапчук Сергей
+
+# Практика работы с Git
+
+Учимся работать с Git
